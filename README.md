@@ -1,7 +1,7 @@
 # ReBridged
 
-Project made for GameJam "Zostań w domu rób gry (Stay home, Make Games)"
+Project made for GameJam "Zostań w domu rób gry (Stay home, Make Games)". My first project made with Unreal Engine 4.
 
 Developed with Unreal Engine 4 (Blueprints)
 
-Packaged project and video with gameplay can be found in https://drive.google.com/drive/u/0/folders/1C08DZ21dYfJ2zi-Y2dHFLIwvigbbmU8d
+Packaged project and video with gameplay can be found in https://drive.google.com/drive/folders/1C08DZ21dYfJ2zi-Y2dHFLIwvigbbmU8d?usp=sharing
